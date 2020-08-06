@@ -1,2 +1,2 @@
 # fullstackopen
-Online course University of Helsinki
+Exercise solutions to the Online course fullstackopen of the University of Helsinki.
